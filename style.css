@@ -1,0 +1,123 @@
+body {
+         background-color: #ffffff;
+      
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+      color: #2E2F42;
+    line-height: 1.5;
+}
+.link-logo {
+    text-decoration: none;
+        color: inherit;
+        font-weight: 700;
+        font-size: 18;
+        line-height: 1.16;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-style: normal
+}
+ .web { color:#4D5AE5;}
+ .link  { text-decoration: none;
+color: inherit;
+font-weight: 400;
+ }
+ .link:hover, link:focus {
+    color: #404BBF;
+   
+ }
+ .link:active{
+   background-color: #404BBF;
+   text-decoration: underline;
+ }
+  .link-contacts {
+     text-decoration: none;
+     color: inherit;
+     font-weight: 400;
+   font-style: normal
+  }
+
+  .link-contacts:hover,
+  .link-contacts:focus {
+     color: #404BBF;
+    
+  }
+
+  
+  
+ .second-line {
+    background-color: #2E2F42;
+    color:#ffffff;
+ }
+ .second-line .text {
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    line-height: 1.07;
+ }
+.second-line button {
+    background-color: #4D5AE5;
+    color: #ffffff;
+
+}
+ .order:hover
+{
+      background-color: #404BBF
+}
+ .benefits-item {
+ font-size: 20px;
+ line-height: 1,2; 
+ 
+ }
+
+.benefits { 
+ font-weight: 400px;
+
+ }
+ .our-team {
+    background-color: #F4F4FD;
+ }
+ .our-team-title { font-size: 36px;
+    line-height: 1.11;
+    font-weight: 700;
+}
+ .our-team-text {
+background-color: #ffffff;
+
+ }
+.our-team-item { 
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.our-team-text {
+    font-weight: 400px;
+}
+
+
+.our-team {
+   background-color: #ffffff;
+}
+
+.our-portfolio-title {
+   font-size: 36px;
+   line-height: 1.11;
+   font-weight: 700;
+}
+
+.our-portfolio-text {
+   background-color: #ffffff;
+
+}
+
+.our-portfolio-item {
+   font-size: 20px;
+   line-height: 1.2;
+}
+
+.our-portfolio-text {
+   font-weight: 400px;
+}
+ .last-line { 
+    background-color:#2E2F42;
+    color: #F4F4FD;
+ }
